@@ -29,6 +29,3 @@ void UDslpUnrealProofGameInstance::OnStart()
 		FPlatformMisc::RequestExit(false);
 	}
 }
-// webhook-build push
-// webhook-build push
-// webhook-build push
