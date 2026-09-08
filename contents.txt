@@ -1,0 +1,4 @@
+../../../Templates/DslpUnrealProof/manifest.json
+../../../Templates/DslpUnrealProof/Config/config.ini
+../../../Templates/DslpUnrealProof/Media/DslpUnrealProof.png
+../../../Templates/DslpUnrealProof/Media/DslpUnrealProof_Preview.png
